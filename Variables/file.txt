@@ -1,0 +1,7 @@
+1) Names are case-sensitive (month is not the same as month);
+
+2) A name brgins with a letter or an underscore,followed by letters,digits,and underscores(e.g.user_name,score,_count);
+
+3)A name cannot start with a digit (for example, 2q is not a valid name);
+
+4)A name must not be a keyword
